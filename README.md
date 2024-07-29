@@ -1,1 +1,1 @@
-# Learning-for-Recognition-IMA205
+# Machine Learning for Object Recognition-IMA205
